@@ -1,5 +1,5 @@
 # Sorting and comparing 
-## sessiiion 
+## session 
 - [session]()
 ## sorting vectors 
 
