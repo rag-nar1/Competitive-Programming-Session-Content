@@ -201,7 +201,7 @@ class sorting{
 
 
 ### problem to solve 
-- [Camp Cup](  https://codeforces.com/group/vHdLQHscPA/contest/363025/problem/D)
+- [Camp Cup]( https://codeforces.com/group/vHdLQHscPA/contest/363025/problem/D)
 
 
 ## sorting maps 
